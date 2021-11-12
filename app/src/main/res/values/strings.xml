@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">velu_task</string>
+    <string name="restaurant_name">Inka Restaurant</string>
+    <string name="restaurant_time">5.0(200+) | All days : 09:00 AM - 06:00 PM</string>
+    <string name="restaurant_contact">Reach us at: 9876543210</string>
+    <string name="book_a_table">Book A Table</string>
+    <string name="view_cart">VIEW CART</string>
+    <string name="starter">Starter</string>
+</resources>
